@@ -136,7 +136,7 @@ GameObject:
   - component: {fileID: 557251604}
   - component: {fileID: 557251603}
   m_Layer: 0
-  m_Name: Cube
+  m_Name: Obstacle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -472,11 +472,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1973429261835314516, guid: 761e9f7ae8822c040a3221b2ddd9369a, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -6.67
+      value: -6.82
       objectReference: {fileID: 0}
     - target: {fileID: 1973429261835314516, guid: 761e9f7ae8822c040a3221b2ddd9369a, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.53
+      value: 1.96
       objectReference: {fileID: 0}
     - target: {fileID: 1973429261835314516, guid: 761e9f7ae8822c040a3221b2ddd9369a, type: 3}
       propertyPath: m_LocalPosition.z
